@@ -1,7 +1,7 @@
 #Haunted games
 from time import *
 ch1=False
-
+#hivikram
 print ("welcome to this choice story game, enjoy! oh and BEWARE [press ENTER to continue]")
 input()
 print (" 'i'm bored,' Sania says, you had gone to your friend Sunil's house to play on his new XBox 4,\n but the electricity depatment had other plans")
